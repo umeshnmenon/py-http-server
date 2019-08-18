@@ -1,4 +1,4 @@
-# py-hhtp-server
+# py-http-server
 
 Py HTTP Server is a minimalistic light weight http server that can be used for micro service based solutions in Python.
 
